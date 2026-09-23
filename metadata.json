@@ -1,0 +1,6 @@
+{
+  "name": "Order Kro - 10-Min Grocery Delivery",
+  "description": "Order groceries, fresh produce, dairy, bakery, and daily essentials with lightning-fast 10-minute neighborhood deliveries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
